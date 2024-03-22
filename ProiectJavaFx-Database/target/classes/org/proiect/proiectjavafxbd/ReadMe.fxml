@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="420.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.proiect.proiectjavafxbd.LogIn">
+   <children>
+      <TextArea prefHeight="300.0" prefWidth="420.0" text="Navigarea în Aplicație:&#10;a. Student&#10;Pagina Principală:&#10;&#10;Vizualizați activități în calendar și setați evenimente personale.&#10;Accesați lista completă a studenților și profesorilor.&#10;Vizualizați și descărcați propriile note.&#10;Comunicați prin chat cu colegii și accesați grupurile de studiu.&#10;Catalog:&#10;&#10;Vizualizați notele obținute la diverse activități didactice.&#10;Study Group:&#10;&#10;Înscrieți-vă în diverse grupuri asociate cu materiile de studiu sau proiecte.&#10;Chat:&#10;&#10;Comunicați cu colegii din grupurile de studiu.&#10;About You:&#10;&#10;Actualizați informațiile personale și vizualizați detaliile propriului profil.&#10;b. Profesor&#10;Panou de Control:&#10;&#10;Vizualizați informații despre activitățile didactice, grupurile de studiu și notificări.&#10;Catalog Profesori:&#10;&#10;Gestionați notele acordate studenților la diverse activități didactice.&#10;Stabilire Procentaj:&#10;&#10;Modificați procentajul alocat fiecărui tip de activitate în catalog.&#10;Înscriere în Grupuri:&#10;&#10;Înrolați-vă în diverse grupuri de studiu pentru a participa activ.&#10;About You:&#10;&#10;Actualizați informațiile personale și vizualizați detaliile propriului profil.&#10;c. Administrator&#10;Gestionare Administratori:&#10;&#10;Adăugați, actualizați sau ștergeți conturi de administratori.&#10;Teachers:&#10;&#10;Adăugați, actualizați sau ștergeți conturi de profesori.&#10;Students:&#10;&#10;Gestionați informațiile despre studenți, inclusiv înrolarea și dezînrolarea din grupurile de studiu.&#10;About You:&#10;&#10;Actualizați informațiile personale și vizualizați detaliile propriului profil." />
+   </children>
+</AnchorPane>
